@@ -19,7 +19,10 @@ imaging:
 params:
   homeMetaContent: Des services libres
   footer: |
+    [Contact](/contact)
+
     [Mentions légales](/legal)
+    
     [Conditions d'utilisation](/cgu)
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Oct 31, 2023

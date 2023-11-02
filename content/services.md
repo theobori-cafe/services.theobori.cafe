@@ -73,10 +73,10 @@ La liste des services est non-exhaustive, les idées et les propositions sont le
 
 <div class="service">
     <div class="image">
-        <img src="/images/etherpad_greyscale.png" width="200px">
+        <img src="/images/nextcloud_greyscale.png" width="200px">
     </div>
     <div class="text">
-        TODO
+        Nextcloud est une suite de logiciels pour la création et l'utilisation de services d'hébergement de fichiers. <a href="https://cloud.theobori.cafe">Faire la demande</a>.
     </div>
 </div>
 
@@ -86,22 +86,22 @@ La liste des services est non-exhaustive, les idées et les propositions sont le
 
 <div class="service">
     <div class="image">
-        <img src="/images/etherpad_greyscale.png" width="200px">
+        <img src="/images/gitea_greyscale.png" width="200px">
     </div>
     <div class="text">
-        TODO
+        Gitea est une plateforme de gestion de dépôts Git légère et très conviviale. <a href="https://git.theobori.cafe">Faire la demande</a>.
     </div>
 </div>
 {{< /expandable >}}
 
-{{< expandable label="TinyTinyRSS" level="2" >}}
+{{< expandable label="Tiny Tiny RSS" level="2" >}}
 
 <div class="service">
     <div class="image">
-        <img src="/images/proxitok_greyscale.png" width="200px">
+        <img src="/images/ttrss_greyscale.png" width="200px">
     </div>
     <div class="text">
-        TODO
+        Tiny Tiny RSS est un agrégateur de flux RSS personnalisable. <a href="https://news.theobori.cafe">Faire la demande</a>.
     </div>
 </div>
 
