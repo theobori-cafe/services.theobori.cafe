@@ -14,24 +14,26 @@ An accessibility-friendly Hugo theme, ported from the [original Cupper](https://
 
 <!-- toc -->
 
-- [Demo](#demo)
-- [Minimum Hugo version](#minimum-hugo-version)
-- [Installation](#installation)
-- [Updating](#updating)
-- [Run example site](#run-example-site)
-- [Configuration](#configuration)
-- [Nav Title or Logo](#nav-title-or-logo)
-- [Favicons](#favicons)
-- [Shortcodes](#shortcodes)
-- [Syntax highlighting](#syntax-highlighting)
-- [Enable Table of Contents for a Blog Post](#enable-table-of-contents-for-a-blog-post)
-- [Localization](#localization)
-- [Custom CSS and JS](#custom-css-and-js)
-- [Default to Dark Theme](#default-to-dark-theme)
-- [Enable utterances](#enable-utterances)
-- [Non-Git Repo](#non-git-repo)
-- [Getting help](#getting-help)
-- [Credits](#credits)
+- [Cupper](#cupper)
+  - [Table of contents](#table-of-contents)
+  - [Demo](#demo)
+  - [Minimum Hugo version](#minimum-hugo-version)
+  - [Installation](#installation)
+  - [Updating](#updating)
+  - [Run example site](#run-example-site)
+  - [Configuration](#configuration)
+  - [Nav Title or Logo](#nav-title-or-logo)
+  - [Favicons](#favicons)
+  - [Shortcodes](#shortcodes)
+  - [Syntax highlighting](#syntax-highlighting)
+  - [Enable Table of Contents for a Blog Post](#enable-table-of-contents-for-a-blog-post)
+  - [Localization](#localization)
+  - [Custom CSS and JS](#custom-css-and-js)
+  - [Default to Dark Theme](#default-to-dark-theme)
+  - [Enable utterances](#enable-utterances)
+  - [Non-Git Repo](#non-git-repo)
+  - [Getting help](#getting-help)
+  - [Credits](#credits)
 
 <!-- tocstop -->
 
@@ -62,7 +64,7 @@ git submodule update --remote --merge
 ## Run example site
 
 From the root of `themes/cupper-hugo-theme/exampleSite`:
-
+w
 ```
 hugo server --themesDir ../..
 ```
