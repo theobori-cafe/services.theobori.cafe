@@ -17,7 +17,7 @@ Voici quelques ressources pour découvrir et mieux comprendre les outils utilis�
 * [Tiny Tiny RSS](https://tt-rss.org)
 {{< /ticks >}}
 
-## Autres
+## Autres ressources intéressantes
 
 {{< ticks >}}
 * [Surveillance Self-Defense](https://ssd.eff.org)
