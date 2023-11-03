@@ -61,7 +61,7 @@ La liste des services est non-exhaustive, les idées et les propositions sont le
         <img src="/images/proxitok_greyscale.png" width="200px">
     </div>
     <div class="text">
-        ProxiTok est une interface utilisateur alternative à celle de TikTok. Toutes les requêtes passent par le serveur pour que TikTok n'ait aux données utilisateur directement. <a href="https://cringe.theobori.cafe">Accéder au service</a>.
+        ProxiTok est une interface utilisateur alternative à celle de TikTok. Toutes les requêtes passent par le serveur pour que TikTok n'ait pas accès aux données utilisateur directement. <a href="https://cringe.theobori.cafe">Accéder au service</a>.
     </div>
 </div>
 
@@ -76,7 +76,7 @@ La liste des services est non-exhaustive, les idées et les propositions sont le
         <img src="/images/nextcloud_greyscale.png" width="200px">
     </div>
     <div class="text">
-        Nextcloud est une suite de logiciels pour la création et l'utilisation de services d'hébergement de fichiers. <a href="/contact">Faire la demande</a>.
+        Nextcloud est une suite de logiciels pour la création et l'utilisation de services d'hébergement de fichiers. <a href="/ouverture">Ouvir un compte</a>.
     </div>
 </div>
 
@@ -89,7 +89,7 @@ La liste des services est non-exhaustive, les idées et les propositions sont le
         <img src="/images/gitea_greyscale.png" width="200px">
     </div>
     <div class="text">
-        Gitea est une plateforme de gestion de dépôts Git légère et très conviviale. <a href="/contact">Faire la demande</a>.
+        Gitea est une plateforme de gestion de dépôts Git légère et très conviviale. <a href="/ouverture">Ouvir un compte</a>.
     </div>
 </div>
 {{< /expandable >}}
@@ -101,7 +101,7 @@ La liste des services est non-exhaustive, les idées et les propositions sont le
         <img src="/images/ttrss_greyscale.png" width="200px">
     </div>
     <div class="text">
-        Tiny Tiny RSS est un agrégateur de flux RSS personnalisable. <a href="/contact">Faire la demande</a>.
+        Tiny Tiny RSS est un agrégateur de flux RSS personnalisable. <a href="/ouverture">Ouvir un compte</a>.
     </div>
 </div>
 
