@@ -1,12 +1,15 @@
 ---
-title: "Informations"
+title: "Documentation"
 ---
 
 ## Détails sur le serveur
 
-Le serveur virtuel privé est hébergé par [Contabo](https://contabo.com). Il est équipé de 6 vCPU Cores, 16 GB RAM et 400 GB SSD. La machine sur laquelle repose le serveur virtuel est équipée de CPUs AMD EPYC 7282.
+Le serveur virtuel privé est hébergé par [Contabo](https://contabo.com) et le nom de domaine [theobori.cafe](https://theobori.cafe) est enregistré chez [OVH](https://www.ovh.com).
+
+Il est équipé de 6 vCPU Cores, 16 GB RAM et 400 GB SSD. La machine sur laquelle repose le serveur virtuel est équipée de CPUs AMD EPYC 7282.
 
 Il fonctionne avec la distribution Linux [Debian 12](https://www.debian.org) (bookworm).
+
 
 ## Nombre de places
 
@@ -58,4 +61,4 @@ Une vision global de l'état des services est disponible [sur cette page](https:
 
 ## Administration
 
-L'administration du serveur est gérée activement et entièrement par Théo Bori.
+L'administration du serveur est gérée exclusivement par Théo Bori qui possède un accès `root`.

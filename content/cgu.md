@@ -54,5 +54,5 @@ Tout comme d'autres services en ligne, Théo Bori's services enregistre automati
 Toutes ces données ne sont ni vendues, ni transmises à des tiers et peuvent être consultées uniquement en cas de problème majeur (consultation des logs en cas de problème du service, demande de la justice).
 
 {{< note >}}
-Ces CGU sont une version adaptée des [CGU de Chère de Prince](https://cheredeprince.net/cgu/) et sont sous licence [CC BY SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr).
+Ces CGU sont une version adaptée des [CGU de Chère de Prince](https://cheredeprince.net/cgu/) et sont sous licence [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
 {{< /note >}}
