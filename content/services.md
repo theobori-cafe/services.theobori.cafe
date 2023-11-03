@@ -33,7 +33,7 @@ La liste des services est non-exhaustive, les idées et les propositions sont le
 
 <div class="service">
     <div class="image">
-        <img src="/images/searxng_greyscale.png" width="200px">
+        <img src="/images/searxng_greyscale.png" alt="Logo SearXNG" width="200px">
     </div>
     <div class="text">
         Searxng est un <a href="https://fr.wikipedia.org/wiki/M%C3%A9tamoteur">métamoteur</a> de recherche respectueux de la vie privée. <a href="https://search.theobori.cafe">Accéder au service</a>.
@@ -46,7 +46,7 @@ La liste des services est non-exhaustive, les idées et les propositions sont le
 
 <div class="service">
     <div class="image">
-        <img src="/images/etherpad_greyscale.png" width="200px">
+        <img src="/images/etherpad_greyscale.png" alt="Logo Etherpad" width="200px">
     </div>
     <div class="text">
         Etherpad est un éditeur de documents collaboratifs en temps réel avec en parallèle une messagerie instantanée intégrée. <a href="https://etherpad.theobori.cafe">Accéder au service</a>.
@@ -58,7 +58,7 @@ La liste des services est non-exhaustive, les idées et les propositions sont le
 
 <div class="service">
     <div class="image">
-        <img src="/images/proxitok_greyscale.png" width="200px">
+        <img src="/images/proxitok_greyscale.png" alt="Logo ProxiTok" width="200px">
     </div>
     <div class="text">
         ProxiTok est une interface utilisateur alternative à celle de TikTok. Toutes les requêtes passent par le serveur pour que TikTok n'ait pas accès aux données utilisateur directement. <a href="https://cringe.theobori.cafe">Accéder au service</a>.
@@ -73,7 +73,7 @@ La liste des services est non-exhaustive, les idées et les propositions sont le
 
 <div class="service">
     <div class="image">
-        <img src="/images/nextcloud_greyscale.png" width="200px">
+        <img src="/images/nextcloud_greyscale.png" alt="Logo Nextcloud" width="200px">
     </div>
     <div class="text">
         Nextcloud est une suite de logiciels pour la création et l'utilisation de services d'hébergement de fichiers. <a href="/ouverture">Ouvir un compte</a>.
@@ -86,7 +86,7 @@ La liste des services est non-exhaustive, les idées et les propositions sont le
 
 <div class="service">
     <div class="image">
-        <img src="/images/gitea_greyscale.png" width="200px">
+        <img src="/images/gitea_greyscale.png" alt="Logo Gitea" width="200px">
     </div>
     <div class="text">
         Gitea est une plateforme de gestion de dépôts Git légère et très conviviale. <a href="/ouverture">Ouvir un compte</a>.
@@ -98,7 +98,7 @@ La liste des services est non-exhaustive, les idées et les propositions sont le
 
 <div class="service">
     <div class="image">
-        <img src="/images/ttrss_greyscale.png" width="200px">
+        <img src="/images/ttrss_greyscale.png" alt="Logo Tiny Tiny RSS" width="200px">
     </div>
     <div class="text">
         Tiny Tiny RSS est un agrégateur de flux RSS personnalisable. <a href="/ouverture">Ouvir un compte</a>.

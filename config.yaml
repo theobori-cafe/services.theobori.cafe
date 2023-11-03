@@ -59,10 +59,10 @@ menu:
       weight: 3
     - name: Ressources
       url: /ressources/
-      weight: 4
-    - name: Informations
-      url: /informations/
       weight: 5
+    - name: Documentation
+      url: /documentation/
+      weight: 4
 
 markup:
   defaultMarkdownHandler: goldmark

@@ -2,8 +2,16 @@
 title: "Mentions légales"
 ---
 
-Ce site est maintenu et édité par [Théo Bori](https://theobori.cafe).
-
 Ce site est hébergé par [Contabo](https://contabo.com/) à Nuremberg.
 
-Mes informations de contact sont disponibles [ici](/contact).
+Ce site est sous lience [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
+
+## Direction de publication et hébergeur
+
+Théo Bori
+
+84270, Vedène
+
+80 impasse des paluds
+
+07 82 81 10 30
