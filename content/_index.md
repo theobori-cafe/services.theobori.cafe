@@ -1,5 +1,4 @@
 ---
-date: "2023-10-31"
 title: "Accueil"
 ---
 
@@ -7,8 +6,10 @@ Bienvenue sur mon site mettant à disposition des [services](/services) gratuits
 
 ## Pourquoi ?
 
-Lutter contre l'exclusivité du marché numérique par un petit groupe d'entreprises ([GAFAM](https://fr.wikipedia.org/wiki/GAFAM)) qui recueillent et exploitent les données de leurs utilisateurs.
+Lutter contre la centralisation des services par un petit nombre d'acteurs ([GAFAM](https://fr.wikipedia.org/wiki/GAFAM)) qui ne sont pas toujours corrects sur le plan éthique. 
+
+Le [manifeste du collectif CHATONS](https://www.chatons.org/manifeste) répond aussi très bien à la question.
 
 ## Pour qui ?
 
-Toutes celles et ceux qui shouhaitent se tourner vers des solutions indépendantes et libres.
+N'importe qui. Toutes celles et ceux qui sont intéressés sont les bienvenues.

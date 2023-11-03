@@ -54,12 +54,15 @@ menu:
     - name: Services
       url: /services/
       weight: 2
+    - name: Ouverture de compte
+      url: /ouverture/
+      weight: 3
     - name: Ressources
       url: /ressources/
-      weight: 3
+      weight: 4
     - name: Informations
       url: /informations/
-      weight: 4
+      weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark
