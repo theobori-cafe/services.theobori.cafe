@@ -17,7 +17,7 @@ L'infrastructure étant volontairement simple, adaptée au mieux pour le besoin,
 
 ## Sauvegardes et stockage
 
-Un snapshot de la machine virtuelle est réalisé une fois par semaine pour un maximum de deux snapshots au total.
+Un snapshot de la machine virtuelle est réalisé une fois par semaine pour un maximum de deux snapshots (rétention de 2 semaines).
 
 Les services et les bases de données sont sauvegardés et archivés journalièrement sur le serveur avec une rétention de 3 jours.
 
@@ -28,13 +28,13 @@ Une potentielle future amélioration serait d'avoir un serveur dédié au stocka
 {{< /note >}}
 
 {{< warning >}}
-Comme précisé dans les [CGU](/cgu/#conditions), je vous recommande de toujours faire des sauvegardes de vos données de votre côté.
+Comme précisé dans les [CGU](/cgu/#conditions), je vous recommande de toujours faire des sauvegardes de votre côté.
 {{< /warning >}}
 
 
 ## Authentification
 
-Un serveur OpenLDAP a été mis en place pour que l'authentification des différents services soit gérée par un seul compte utilisateur au lieu d'avoir un compte par service.
+Un serveur OpenLDAP a été mis en place pour que l'authentification sur les différents services soit gérée par un seul compte utilisateur au lieu d'avoir un compte par service.
 
 ## Sécurité
 
@@ -61,4 +61,4 @@ Une vision global de l'état des services est disponible [sur cette page](https:
 
 ## Administration
 
-L'administration du serveur est gérée exclusivement par Théo Bori qui possède un accès `root`.
+L'administration du serveur est gérée exclusivement par Théo Bori possédant un accès `root`.

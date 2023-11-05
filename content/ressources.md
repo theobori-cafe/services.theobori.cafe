@@ -14,7 +14,8 @@ Voici quelques ressources pour découvrir et mieux comprendre les outils utilis�
 * [ProxiTok](https://github.com/pablouser1/ProxiTok) ([code source](https://github.com/pablouser1/ProxiTok))
 * [SearxNG](https://docs.searxng.org) ([code source](https://github.com/searxng/searxng))
 * [Etherpad](https://etherpad.org) ([code source](https://github.com/ether/etherpad-lite))
-* [Tiny Tiny RSS](https://tt-rss.org) ([code source](https://git.tt-rss.org/fox/tt-rss.git/)) ([fork utilisé](https://git.theobori.cafe/theobori.cafe/tt-rss-ldap)) 
+* [Tiny Tiny RSS](https://tt-rss.org) ([code source](https://git.tt-rss.org/fox/tt-rss.git)) ([fork utilisé](https://git.theobori.cafe/theobori.cafe/tt-rss-ldap))
+* [Uptime Kuma](https://uptime.kuma.pet) ([code source](https://github.com/louislam/uptime-kuma)
 {{< /ticks >}}
 
 ## Autres ressources intéressantes

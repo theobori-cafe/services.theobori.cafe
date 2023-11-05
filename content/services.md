@@ -76,7 +76,7 @@ La liste des services est non-exhaustive, les idées et les propositions sont le
         <img src="/images/nextcloud_greyscale.png" alt="Logo Nextcloud" width="200px">
     </div>
     <div class="text">
-        Nextcloud est une suite de logiciels pour la création et l'utilisation de services d'hébergement de fichiers. <a href="/ouverture">Ouvir un compte</a>.
+        Nextcloud est une suite de logiciels pour la création et l'utilisation de services d'hébergement de fichiers. <a href="/ouverture">Ouvir un compte</a> pour <a href="https://cloud.theobori.cafe">accéder au service</a>.
     </div>
 </div>
 
@@ -89,7 +89,7 @@ La liste des services est non-exhaustive, les idées et les propositions sont le
         <img src="/images/gitea_greyscale.png" alt="Logo Gitea" width="200px">
     </div>
     <div class="text">
-        Gitea est une plateforme de gestion de dépôts Git légère et très conviviale. <a href="/ouverture">Ouvir un compte</a>.
+        Gitea est une plateforme de gestion de dépôts Git légère et très conviviale. <a href="/ouverture">Ouvir un compte</a> pour <a href="https://git.theobori.cafe">accéder au service</a>.
     </div>
 </div>
 {{< /expandable >}}
@@ -101,7 +101,7 @@ La liste des services est non-exhaustive, les idées et les propositions sont le
         <img src="/images/ttrss_greyscale.png" alt="Logo Tiny Tiny RSS" width="200px">
     </div>
     <div class="text">
-        Tiny Tiny RSS est un agrégateur de flux RSS personnalisable. <a href="/ouverture">Ouvir un compte</a>.
+        Tiny Tiny RSS est un agrégateur de flux RSS personnalisable. <a href="/ouverture">Ouvir un compte</a> pour <a href="https://news.theobori.cafe">accéder au service</a>.
     </div>
 </div>
 

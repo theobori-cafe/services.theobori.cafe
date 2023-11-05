@@ -2,6 +2,8 @@
 title: "Ouverture de compte"
 ---
 
+Un compte utilisateur permet de s'authentifier sur tous les services demandant un identifiant et un mot de passe.
+
 ## Demande
 
 Pour celles et ceux qui souhaiteraient ouvrir un compte, c'est très simple, il suffit de m'envoyer un email à l'adresse [nagi@tilde.team](mailto:nagi@tilde.team).
