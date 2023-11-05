@@ -48,7 +48,16 @@
     }
   </style>
 
-  <link rel="stylesheet" href="{{ "css/prism.css" | relURL }}" media="none" onload="this.media='all';">
+  
+  <link rel="stylesheet" href="{{ "css/prism.css" | relURL }}" media="none" id="prism-stylesheet">
+  
+  <script nonce="f5d66ae47dbd10d6c945c247dabf728a3d47441b2f1dc294396dbfd956561a34">
+    let stylesheet = document.getElementById('prism-stylesheet');
+    
+    stylesheet.onload = function() {
+      this.media = 'all';
+    };
+  </script>
 
   {{ $templateStyles := resources.Get "css/template-styles.css" }}
   {{ $styles := $templateStyles | resources.ExecuteAsTemplate "css/styles.css" . }}
