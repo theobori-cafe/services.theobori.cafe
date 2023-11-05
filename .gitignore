@@ -3,3 +3,4 @@ resources/
 themes/
 public/
 lcc.md
+.hugo_build.lock

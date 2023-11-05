@@ -10,8 +10,4 @@ Ce site est sous lience [CC BY SA 4.0](https://creativecommons.org/licenses/by-s
 
 Théo Bori
 
-84270, Vedène
-
-80 impasse des paluds
-
 07 82 81 10 30

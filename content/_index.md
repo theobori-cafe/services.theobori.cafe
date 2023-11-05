@@ -12,4 +12,4 @@ Le [manifeste du collectif CHATONS](https://www.chatons.org/manifeste) répond a
 
 ## Pour qui ?
 
-N'importe qui. Toutes celles et ceux qui sont intéressés sont les bienvenues.
+Tout le monde. Toutes celles et ceux qui sont intéréssés sont les bienvenues.

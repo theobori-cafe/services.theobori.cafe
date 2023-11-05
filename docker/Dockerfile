@@ -6,7 +6,10 @@ RUN apk add git
 
 COPY . .
 
-RUN git submodule add -f https://github.com/zwbetz-gh/cupper-hugo-theme.git themes/cupper-hugo-theme
+ARG THEME themes/cupper-hugo-theme
+
+RUN rm -rf ${THEME} && \
+    git clone https://github.com/zwbetz-gh/cupper-hugo-theme.git ${THEME}
 
 RUN hugo
 

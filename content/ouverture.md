@@ -6,9 +6,11 @@ Un compte utilisateur permet de s'authentifier sur tous les services demandant u
 
 ## Demande
 
-Pour celles et ceux qui souhaiteraient ouvrir un compte, c'est très simple, il suffit de m'envoyer un email à l'adresse [nagi@tilde.team](mailto:nagi@tilde.team).
+Pour celles et ceux qui souhaiteraient ouvrir un compte, c'est très simple, il suffit de m'envoyer un email à l'adresse [nagi@tilde.team](mailto:nagi@tilde.team). Dans le contenu de l'email, un nom d'utilisateur et une adresse email doivent être renseignés.
 
-Dans le contenu de l'email, un nom d'utilisateur et une adresse email doivent être renseignés. Optionnellement, il peut être ajouté une photo de profil et une rapide présentation de vous est encouragée.
+{{< note >}}
+Une brève présentation de vous est encouragée !
+{{< /note >}}
 
 ## Réponse
 

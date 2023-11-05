@@ -10,21 +10,16 @@ Il est équipé de 6 vCPU Cores, 16 GB RAM et 400 GB SSD. La machine sur laquell
 
 Il fonctionne avec la distribution Linux [Debian 12](https://www.debian.org) (bookworm).
 
-
-## Nombre de places
-
-L'infrastructure étant volontairement simple, adaptée au mieux pour le besoin, le nombre de comptes utilisateur est restreint. La limite est jaugée à environ 35 comptes.
-
 ## Sauvegardes et stockage
 
-Un snapshot de la machine virtuelle est réalisé une fois par semaine pour un maximum de deux snapshots (rétention de 2 semaines).
+Un snapshot de la machine virtuelle est réalisé une fois par semaine pour un maximum de deux snapshots au total (rétention de 2 semaines).
 
 Les services et les bases de données sont sauvegardés et archivés journalièrement sur le serveur avec une rétention de 3 jours.
 
 Ces sauvegardes sont copiées sur un disque dur externe (chiffré) personnel une fois par semaine.
 
 {{< note >}}
-Une potentielle future amélioration serait d'avoir un serveur dédié au stockage de ces sauvegardes utilisé à travers le standard [Wake-on-LAN](https://fr.wikipedia.org/wiki/Wake-on-LAN).
+Une amélioration intéressante serait l'acquisition d'un serveur dédié au stockage des sauvegardes utilisé à travers le standard [Wake-on-LAN](https://fr.wikipedia.org/wiki/Wake-on-LAN).
 {{< /note >}}
 
 {{< warning >}}
