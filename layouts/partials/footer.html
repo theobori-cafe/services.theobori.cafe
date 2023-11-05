@@ -1,6 +1,12 @@
+<style nonce="f5d66ae47dbd10d6c945c247dabf728a3d47441b2f1dc294396dbfd956561a34">
+  .content-info {
+    display: none;
+  }
+</style>
+
 <footer role="contentinfo">
   <div
-  {{ if eq .Site.Params.showThemeSwitcher false }}style="display: none;"{{ end }}
+  {{ if eq .Site.Params.showThemeSwitcher false }}class="content-info"{{ end }}
   >
     <label for="themer">
       {{ T "dark_theme" }} <input type="checkbox" id="themer" class="vh">
