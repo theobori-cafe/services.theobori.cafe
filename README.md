@@ -14,5 +14,5 @@ Services website
 
 ```bash
 docker build -t services-theobori .
-docker run -d -p 8080:8080 services-theobori
+docker run -d -p 8080:80 services-theobori
 ```
