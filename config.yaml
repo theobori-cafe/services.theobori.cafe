@@ -17,10 +17,9 @@ params:
   homeMetaContent: Des services libres
   footer: |
     [Contact](/contact)
-
     [Mentions légales](/legal)
-    
     [Conditions d'utilisation](/cgu)
+    [Opérations](/operations)
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Oct 31, 2023
   codePenUser: theobori
@@ -51,15 +50,15 @@ menu:
     - name: Services
       url: /services/
       weight: 2
-    - name: Ouverture de compte
-      url: /ouverture/
+    - name: Compte
+      url: /compte/
       weight: 3
-    - name: Ressources
-      url: /ressources/
-      weight: 5
     - name: Documentation
       url: /documentation/
       weight: 4
+    - name: Ressources
+      url: /ressources/
+      weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark

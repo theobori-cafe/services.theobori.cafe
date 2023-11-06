@@ -1,8 +1,8 @@
 FROM klakegg/hugo:0.101.0-alpine as build
 
-WORKDIR /src
-
 RUN apk add git
+
+WORKDIR /src
 
 COPY . .
 
