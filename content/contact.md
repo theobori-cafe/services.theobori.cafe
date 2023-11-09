@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-Vous pouvez me contactez par [mail](mailto:nagi@tilde.team) ou via Discord (`b0th`).
+Vous pouvez me contactez par email à l'adresse [nagi@tilde.team](mailto:nagi@tilde.team).
 
 {{< note >}}
 Je suis souvent disponible et réponds rapidement.
