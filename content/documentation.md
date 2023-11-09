@@ -26,7 +26,6 @@ Une amélioration intéressante serait l'acquisition d'un serveur dédié au sto
 Comme précisé dans les [CGU](/cgu/#conditions), je vous recommande de toujours faire des sauvegardes de votre côté.
 {{< /warning >}}
 
-
 ## Authentification
 
 Un serveur OpenLDAP a été mis en place pour que l'authentification sur les différents services soit gérée par un seul compte utilisateur au lieu d'avoir un compte par service.
@@ -53,6 +52,10 @@ Les sources sont ouvertes et disponibles sur la [forge logicielle](https://git.t
 Le système et les conteneurs des services sont surveillés par Grafana couplé à Prometheus. Des alertes Grafana ont été mises en places et me notifient directement lorsqu'il y a un incident.
 
 Une vision global de l'état des services est disponible [sur cette page](https://status.theobori.cafe). Des alertes Uptime Kuma ont été configurées et me notifient quand les services ne sont plus disponible depuis Internet.
+
+## Statistiques utilisateurs
+
+Des rapport d'utilisation des services sont générées hebdomadairement et mensuellement, Ils sont respectivement disponibles sur [cette page](/report/week) et sur [celle-ci](/report/month). 
 
 ## Administration
 
