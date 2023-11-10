@@ -2,11 +2,11 @@
 title: "Accueil"
 ---
 
-Bienvenue sur mon site mettant à disposition des [services](/services) gratuits et ouverts à toutes et à tous. Ils sont sans publicités, respectent la vie privée, n'exploitent pas les données utilisateurs et reposent sur des logiciels open sources.
+Bienvenue sur mon site mettant à disposition des [services](/services) gratuits et ouverts à toutes et à tous. Ils sont sans publicités, respectent la vie privée, n'exploitent pas les données utilisateurs et reposent sur des logiciels open sources et libres.
 
 ## Pourquoi ?
 
-Lutter contre la centralisation des services par un petit nombre d'acteurs ([GAFAM](https://fr.wikipedia.org/wiki/GAFAM)) qui ne sont pas toujours corrects sur le plan éthique. 
+S'opposer à la centralisation des services opérée par un petit nombre d'acteurs dominants ([GAFAM](https://fr.wikipedia.org/wiki/GAFAM)) qui ne sont pas toujours corrects sur le plan éthique. 
 
 Le [manifeste du collectif CHATONS](https://www.chatons.org/manifeste) répond aussi très bien à la question.
 
