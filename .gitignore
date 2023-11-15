@@ -2,5 +2,5 @@ exampleSite/public/
 resources/
 themes/
 public/
-lcc.md
+/*.md
 .hugo_build.lock
