@@ -67,6 +67,20 @@ La liste des services est non-exhaustive, les idées et les propositions sont le
 
 {{< /expandable >}}
 
+
+{{< expandable label="PrivateBin" level="2" >}}
+
+<div class="service">
+    <div class="image">
+        <img src="/images/privatebin_greyscale.png" alt="Logo PrivateBin" width="200px">
+    </div>
+    <div class="text">
+        PrivateBin est une application en ligne qui permet de partager du texte de manière confidentielle. <a href="https://bin.theobori.cafe">Accéder au service</a>.
+    </div>
+</div>
+
+{{< /expandable >}}
+
 ## Les services sur demande
 
 {{< expandable label="Nextcloud" level="2" >}}
