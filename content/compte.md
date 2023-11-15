@@ -2,6 +2,8 @@
 title: "Compte"
 ---
 
+## À quoi ça sert ?
+
 Un compte utilisateur permet de s'authentifier sur tous les services demandant un identifiant et un mot de passe.
 
 ## Ouverture de compte
