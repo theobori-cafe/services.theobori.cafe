@@ -6,7 +6,7 @@ WORKDIR /src
 
 COPY . .
 
-ARG THEME themes/cupper-hugo-theme
+ENV THEME themes/cupper-hugo-theme
 
 RUN rm -rf ${THEME} && \
     git clone https://github.com/zwbetz-gh/cupper-hugo-theme.git ${THEME}
