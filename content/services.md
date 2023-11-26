@@ -128,7 +128,7 @@ La liste des services est non-exhaustive, les idées et les propositions sont le
         <img src="/images/calibre_greyscale.png" alt="Logo Calibre" width="200px">
     </div>
     <div class="text">
-        Calibre-Web est une Application en ligne pour parcourir, lire et télécharger des livres électroniques. <a href="/compte">Ouvir un compte</a> pour <a href="https://books.theobori.cafe">accéder au service</a>.
+        Calibre-Web est une application en ligne pour parcourir, lire et télécharger des livres électroniques. <a href="/compte">Ouvir un compte</a> pour <a href="https://books.theobori.cafe">accéder au service</a>.
     </div>
 </div>
 
