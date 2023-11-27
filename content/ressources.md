@@ -17,6 +17,7 @@ Voici quelques ressources pour découvrir et mieux comprendre les outils utilis�
 * [Tiny Tiny RSS](https://tt-rss.org) ([code source](https://git.tt-rss.org/fox/tt-rss.git)) ([fork utilisé](https://git.theobori.cafe/theobori.cafe/tt-rss-ldap))
 * [Uptime Kuma](https://uptime.kuma.pet) ([code source](https://github.com/louislam/uptime-kuma))
 * [PrivateBin](https://privatebin.info/) ([code source](https://github.com/PrivateBin))
+* [Calibre-Web](https://github.com/janeczku/calibre-web) ([code source](https://github.com/janeczku/calibre-web))
 {{< /ticks >}}
 
 ## Autres ressources intéressantes
