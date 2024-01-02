@@ -4,6 +4,15 @@ title: "Liste des opérations"
 
 Les opérations majeures réalisées (montées en versions, gestion des services, etc.) par les administrateurs sont listées.
 
+### 2 janvier 2024
+
+- Montée en version de Nextcloud (**`27.1.4`** vers **`28.0.1`**).
+- Montée en version de Gitea (**`1.21.0`** vers **`1.21.3`**).
+- Montée en version de SearXNG (**`2023.11.23+cc6058057`** vers **`2023.12.31+3535377c9`**).
+- Montée en version de Gitea (**`1.21.0`** vers **`1.21.3`**).
+- Montée en version de Uptime Kuma (**`1.23.2`** vers **`1.23.11`**).
+- Montée en version de Etherpad (**`1.7.8`** vers **`1.9.6`**).
+
 ### 26 novembre 2023
 
 - Ajout du service Calibre-Web.
