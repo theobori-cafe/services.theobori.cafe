@@ -4,3 +4,6 @@ themes/
 public/
 /*.md
 .hugo_build.lock
+
+.direnv
+result

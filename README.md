@@ -1,8 +1,8 @@
-# ☕ services.theobori.cafe
+## services.theobori.cafe
 
-My services website built with Hugo.
+![build](https://github.com/theobori-cafe/services.theobori.cafe/actions/workflows/build.yml/badge.svg)
 
-```bash
-docker buildx build . -t services
-docker run -d -p 8080:80 services
-```
+[![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org)
+
+My website introducing my free services open to all.
+
