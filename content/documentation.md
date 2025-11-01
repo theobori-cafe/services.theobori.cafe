@@ -43,7 +43,7 @@ Autres points importants:
 
 ## Replicabilité et automatismes
 
-Les opérations réalisées sur le serveur ont été automatisées avec Ansible, Terraform et quelques scripts (sans prétentions).
+Les opérations réalisées sur le serveur ont été automatisées avec Ansible, Terraform et quelques scripts.
 
 Les sources sont ouvertes et disponibles sur la [forge logicielle](https://git.theobori.cafe/theobori.cafe).
 

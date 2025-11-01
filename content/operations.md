@@ -4,6 +4,10 @@ title: "Liste des opérations"
 
 Les opérations majeures réalisées (montées en versions, gestion des services, etc.) par les administrateurs sont listées.
 
+### 1 Novembre 2025
+
+- Certains services sont protégés des robots des LLMs par Iocaine.
+
 ### 1 mai 2024
 
 - Les sauvegardes sont désormais gérées par Duplicati.
