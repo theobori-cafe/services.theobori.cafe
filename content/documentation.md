@@ -37,7 +37,7 @@ Un serveur OpenLDAP a été mis en place pour que l'authentification sur les dif
 La configuration `fail2ban` ([disponible ici](https://git.theobori.cafe/theobori.cafe/ansible-playbook/src/branch/main/roles/security/files/fail2ban/jail.d)) est volontairement très stricte, les services demandant une authentification ont une marge d'erreur de 7 essaies. Au-delà, l'utilisateur se retrouve banni sur l'ensemble des ports du serveur.
 
 Autres points importants:
-- Tous les services sont conteneurisés grâce à Docker ([disponibles ici](https://git.theobori.cafe/theobori.cafe/ansible-playbook/src/branch/main/roles/services/files)).
+- Tous les services sont conteneurisés grâce à Docker ([disponibles ici](https://git.theobori.cafe/theobori.cafe/ansible-playbook/src/branch/main/roles)).
 - Les mises à jour de sécurité des services sont effectuées le plus rapidement possible après leur parution.
 - Aucun outil d'administration installé sur le serveur n'est exposé à Internet.
 
