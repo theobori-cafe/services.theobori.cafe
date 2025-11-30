@@ -34,7 +34,7 @@ L'échec de Théo Bori's services à exercer ou à appliquer tout droit ou dispo
 
 Les Conditions d'Utilisation constituent l'intégralité de l'accord entre vous et Théo Bori's services et régissent votre utilisation du service, remplaçant tous les accords antérieurs entre vous et Théo Bori's services (y compris les versions précédentes des Conditions Générales d'Utilisation).
 
-Les questions sur les conditions de service doivent être envoyées à l'adresse nagi@tilde.team
+Les questions sur les conditions de service doivent être envoyées à l'adresse theobori@disroot.org
 
 * Théo Bori's services se réserve le droit, à tout moment de modifier ou d'interrompre, temporairement ou définitivement, les services avec ou sans préavis.
 * Théo Bori's services ne sera pas responsable envers vous ou tout tiers pour toute modification, suspension ou interruption du service.
@@ -43,7 +43,7 @@ Les questions sur les conditions de service doivent être envoyées à l'adresse
 
 Conformément à l'article 34 de la loi « Informatique et Libertés », Théo Bori's services garantit à l'utilisateur un droit d'opposition, d'accès et de rectification sur les données nominatives le concernant.
 
-L'utilisateur a la possibilité d'exercer ce droit en contactant Théo Bori's services par mail à l'adresse nagi@tilde.team.
+L'utilisateur a la possibilité d'exercer ce droit en contactant Théo Bori's services par mail à l'adresse theobori@disroot.org.
 
 Les services proposés ne récupèrent aucunes données nominatives à l'exception de l'adresse IP et le mail (ou le nom) que l'utilisateur peut donner pour un service nécessitant un compte.
 

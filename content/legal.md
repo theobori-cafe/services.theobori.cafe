@@ -10,4 +10,4 @@ Ce site est sous lience [CC BY SA 4.0](https://creativecommons.org/licenses/by-s
 
 Théo Bori
 
-nagi@tilde.team
+theobori@disroot.org

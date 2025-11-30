@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-Vous pouvez me contactez par email à l'adresse [nagi@tilde.team](mailto:nagi@tilde.team).
+Vous pouvez me contactez par email à l'adresse [theobori@disroot.org](mailto:theobori@disroot.org).
 
 {{< note >}}
 Je suis souvent disponible et réponds rapidement.
