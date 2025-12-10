@@ -4,6 +4,10 @@ title: "Liste des opérations"
 
 Les opérations majeures réalisées (montées en versions, gestion des services, etc.) par les administrateurs sont listées.
 
+### 10 Décembre 2025
+
+- Le service ProxiTok est retiré et n'est plus disponible.
+
 ### 1 Novembre 2025
 
 - Certains services sont protégés des robots des LLMs par Iocaine.

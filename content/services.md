@@ -54,20 +54,6 @@ La liste des services est non-exhaustive, les idées et les propositions sont le
 </div>
 {{< /expandable >}}
 
-{{< expandable label="ProxiTok" level="2" >}}
-
-<div class="service">
-    <div class="image">
-        <img src="/images/proxitok_greyscale.png" alt="Logo ProxiTok" width="200px">
-    </div>
-    <div class="text">
-        ProxiTok est une interface utilisateur alternative à celle de TikTok. Toutes les requêtes passent par le serveur pour que TikTok n'ait pas accès aux données utilisateur directement. <a href="https://cringe.theobori.cafe">Accéder au service</a>.
-    </div>
-</div>
-
-{{< /expandable >}}
-
-
 {{< expandable label="PrivateBin" level="2" >}}
 
 <div class="service">
